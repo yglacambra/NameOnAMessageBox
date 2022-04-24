@@ -1,0 +1,18 @@
+C:\Users\Stefani\source\repos\Name (Assignment1)\Name (Assignment1)\obj\Debug\net6.0-windows\Name (Assignment1).csproj.AssemblyReference.cache
+C:\Users\Stefani\source\repos\Name (Assignment1)\Name (Assignment1)\obj\Debug\net6.0-windows\Name (Assignment1).csproj.GenerateResource.cache
+C:\Users\Stefani\source\repos\Name (Assignment1)\Name (Assignment1)\obj\Debug\net6.0-windows\Name (Assignment1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefani\source\repos\Name (Assignment1)\Name (Assignment1)\obj\Debug\net6.0-windows\Name (Assignment1).AssemblyInfoInputs.cache
+C:\Users\Stefani\source\repos\Name (Assignment1)\Name (Assignment1)\obj\Debug\net6.0-windows\Name (Assignment1).AssemblyInfo.cs
+C:\Users\Stefani\source\repos\Name (Assignment1)\Name (Assignment1)\obj\Debug\net6.0-windows\Name (Assignment1).csproj.CoreCompileInputs.cache
+C:\Users\Stefani\source\repos\Name (Assignment1)\Name (Assignment1)\bin\Debug\net6.0-windows\Name (Assignment1).exe
+C:\Users\Stefani\source\repos\Name (Assignment1)\Name (Assignment1)\bin\Debug\net6.0-windows\Name (Assignment1).deps.json
+C:\Users\Stefani\source\repos\Name (Assignment1)\Name (Assignment1)\bin\Debug\net6.0-windows\Name (Assignment1).runtimeconfig.json
+C:\Users\Stefani\source\repos\Name (Assignment1)\Name (Assignment1)\bin\Debug\net6.0-windows\Name (Assignment1).dll
+C:\Users\Stefani\source\repos\Name (Assignment1)\Name (Assignment1)\bin\Debug\net6.0-windows\Name (Assignment1).pdb
+C:\Users\Stefani\source\repos\Name (Assignment1)\Name (Assignment1)\obj\Debug\net6.0-windows\Name (Assignment1).dll
+C:\Users\Stefani\source\repos\Name (Assignment1)\Name (Assignment1)\obj\Debug\net6.0-windows\refint\Name (Assignment1).dll
+C:\Users\Stefani\source\repos\Name (Assignment1)\Name (Assignment1)\obj\Debug\net6.0-windows\Name (Assignment1).pdb
+C:\Users\Stefani\source\repos\Name (Assignment1)\Name (Assignment1)\obj\Debug\net6.0-windows\Name (Assignment1).genruntimeconfig.cache
+C:\Users\Stefani\source\repos\Name (Assignment1)\Name (Assignment1)\obj\Debug\net6.0-windows\ref\Name (Assignment1).dll
+C:\Users\Stefani\source\repos\Name (Assignment1)\Name (Assignment1)\obj\Debug\net6.0-windows\Name__Assignment1_.MyName.resources
+C:\Users\Stefani\source\repos\Name (Assignment1)\Name (Assignment1)\obj\Debug\net6.0-windows\Name__Assignment1_.Properties.Resources.resources
